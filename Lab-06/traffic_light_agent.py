@@ -3,7 +3,8 @@
 table = {
     "Red": "Stop",
     "Yellow": "Slow Down",
-    "Green": "Go"
+    "Green": "Go",
+    "Flashing Red": "Stop and Proceed with Caution"
 }
 
 def traffic_light_agent(percept):
